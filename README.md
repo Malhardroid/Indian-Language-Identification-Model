@@ -1,9 +1,9 @@
 # Indian-Language-Identification-Model
 This is a model to identify inputted Indian languages. 
 
-Here is the list of languages that the model can identify:
+Here is the list of languages that the model can identify: <br />
 Assamese <br />
-Bangla (Bengali)
+Bangla (Bengali) <br />
 Bodo
 Dogri
 English
