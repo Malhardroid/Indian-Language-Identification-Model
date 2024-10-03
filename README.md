@@ -31,20 +31,20 @@ Urdu<br />
 # Steps to use this model:
 <ins>Step 1:</ins><br />
   Download the zip file<br />
-Step 2:<br />
+<ins>Step 2:</ins><br />
   Open Google Colab<br />
-Step 3:<br />
+<ins>Step 3:</ins><br />
   Upload and extract the zip file in Colab<br />
-Step 4:<br />
+<ins>Step 4:</ins><br />
   Install and import FastText<br />
-Step 5:<br />
+<ins>Step 5:</ins><br />
   Train the FastText Model on the training data<br />
-Step 6:<br />
+<ins>Step 6:</ins><br />
   Test the Model on the validation data<br />
-Step 7:<br />
+<ins>Step 7:</ins><br />
   Predict the language of a new sentence<br />
   Write the sentence in the section that says "perdiction" <br />
   "new_text = ____________"<br />
   Insert your sentence in the blank<br />
-Step 8:<br />
+<ins>Step 8:</ins><br />
   Save and download the model<br />
