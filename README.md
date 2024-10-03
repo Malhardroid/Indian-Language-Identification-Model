@@ -4,17 +4,17 @@ This is a model to identify inputted Indian languages.
 Here is the list of languages that the model can identify: <br />
 Assamese <br />
 Bangla (Bengali) <br />
-Bodo
-Dogri
-English
-Gujarati
-Hindi
-Kannada
-Kashmiri (in Arabic Script)
-Kashmiri (in Devanagri Script)
-Konkani
-Maithili
-Malayalam
+Bodo<br />
+Dogri<br />
+English<br />
+Gujarati<br />
+Hindi<br />
+Kannada<br />
+Kashmiri (in Arabic Script)<br />
+Kashmiri (in Devanagri Script)<br />
+Konkani<br />
+Maithili<br />
+Malayalam<br />
 Manipuri (Meiteilon)
 Manipuri (in Bengali Script)
 Marathi
