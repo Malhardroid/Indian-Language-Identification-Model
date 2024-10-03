@@ -29,7 +29,7 @@ Telugu<br />
 Urdu<br />
 
 # Steps to use this model:
-Step 1:<br />
+<ins>Step 1:</ins><br />
   Download the zip file<br />
 Step 2:<br />
   Open Google Colab<br />
