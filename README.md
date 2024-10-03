@@ -29,22 +29,22 @@ Telugu<br />
 Urdu<br />
 
 # Steps to use this model:
-Step 1: 
-  Download the zip file
-Step 2:
-  Open Google Colab
-Step 3:
-  Upload and extract the zip file in Colab
-Step 4:
-  Install and import FastText
-Step 5:
-  Train the FastText Model on the training data
-Step 6:
-  Test the Model on the validation data
-Step 7:
-  Predict the language of a new sentence
-  Write the sentence in the section that says "perdiction" 
-  "new_text = ____________"
-  Insert your sentence in the blank
-Step 8:
-  Save and download the model
+Step 1:<br />
+  Download the zip file<br />
+Step 2:<br />
+  Open Google Colab<br />
+Step 3:<br />
+  Upload and extract the zip file in Colab<br />
+Step 4:<br />
+  Install and import FastText<br />
+Step 5:<br />
+  Train the FastText Model on the training data<br />
+Step 6:<br />
+  Test the Model on the validation data<br />
+Step 7:<br />
+  Predict the language of a new sentence<br />
+  Write the sentence in the section that says "perdiction" <br />
+  "new_text = ____________"<br />
+  Insert your sentence in the blank<br />
+Step 8:<br />
+  Save and download the model<br />
