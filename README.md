@@ -15,18 +15,18 @@ Kashmiri (in Devanagri Script)<br />
 Konkani<br />
 Maithili<br />
 Malayalam<br />
-Manipuri (Meiteilon)
-Manipuri (in Bengali Script)
-Marathi
-Nepali
-Oriya (Odia)
-Punjabi
-Sanskrit
-Santali
-Sindhi
-Tamil
-Telugu
-Urdu
+Manipuri (Meiteilon)<br />
+Manipuri (in Bengali Script)<br />
+Marathi<br />
+Nepali<br />
+Oriya (Odia)<br />
+Punjabi<br />
+Sanskrit<br />
+Santali<br />
+Sindhi<br />
+Tamil<br />
+Telugu<br />
+Urdu<br />
 
 # Steps to use this model:
 Step 1: 
