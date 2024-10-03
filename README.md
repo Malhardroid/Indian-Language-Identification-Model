@@ -39,6 +39,7 @@ Urdu<br />
   Install and import FastText<br />
 <ins>Step 5:</ins><br />
   Train the FastText Model on the training data<br />
+  Update the epochs if needed<br />
 <ins>Step 6:</ins><br />
   Test the Model on the validation data<br />
 <ins>Step 7:</ins><br />
